@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+
+<!-- Nama File: identitas.xml -->
+
+<ID_KELOMPOK>
+	<MAHASISWA>
+		<NAMA> Hilman Septian </NAMA>
+		<NPM> 117006135 </NPM>
+		<KELAMIN>Laki-laki</KELAMIN>
+		<ALAMAT> Malangbong-Garut </ALAMAT>
+		<KELAS angkatan="2011"> C </KELAS>
+		<AGAMA> islam </AGAMA>
+		<STATUS> lajang </STATUS>
+	</MAHASISWA>
+	<MAHASISWA>
+		<NAMA> Budi Permana </NAMA>
+		<NPM> 117006103 </NPM>
+		<KELAMIN>Laki-laki</KELAMIN>
+		<ALAMAT> Pataruman-Banjar </ALAMAT>
+		<KELAS angkatan="2011"> C </KELAS>
+		<AGAMA> islam </AGAMA>
+		<STATUS> lajang </STATUS>
+	</MAHASISWA>
+	<MAHASISWA>
+		<NAMA> Gilang Agtian </NAMA>
+		<NPM> 117006121 </NPM>
+		<KELAMIN>Laki-laki</KELAMIN>
+		<ALAMAT> Kawalu-Tasikmalaya </ALAMAT>
+		<KELAS angkatan="2011"> C </KELAS>
+		<AGAMA> islam </AGAMA>
+		<STATUS> in relationship </STATUS>
+	</MAHASISWA>
+	<MAHASISWA>
+		<NAMA> Hendra Hendrawan </NAMA>
+		<NPM> 117006133 </NPM>
+		<KELAMIN>Laki-laki</KELAMIN>
+		<ALAMAT> Cikoneng-Ciamis </ALAMAT>
+		<KELAS angkatan="2011"> C </KELAS>
+		<AGAMA> islam </AGAMA>
+		<STATUS> lajang </STATUS>
+	</MAHASISWA>
+</ID_KELOMPOK>
